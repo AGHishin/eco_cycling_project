@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\33758\Desktop\eco_cycling_project\.metadata\.plugins\org.eclipse.jdt.core
